@@ -1,0 +1,8 @@
+1. 老師的git hub
+https://github.com/azole/node-course/tree/main/basic
+
+2.git hub 共筆
+https://hackmd.io/5uvteB-LSOG9MPy3VBvj9Q
+
+3.Node.js 共筆
+https://hackmd.io/x6t2OdYQTGul8W7fn1AukQ?both
